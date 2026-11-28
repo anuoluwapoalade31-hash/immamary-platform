@@ -16,7 +16,7 @@ const arms = {
       {title:'Intercultural mission',text:'Preparing leaders to serve faithfully across cultures and communities.'}
     ],
     opportunities:['Leadership and ministry training','Church and institutional partnerships','Seminars, workshops and learning programmes'],
-    image:'https://images.unsplash.com/photo-1529390079861-591de354faf5?auto=format&fit=crop&w=1400&q=85',
+    image:'https://images.unsplash.com/photo-1521737711867-e3b97375f902?auto=format&fit=crop&w=1400&q=85',
     cta:'Enquire about training',formTitle:'Connect with the Education Arm',table:'education_enquiries'
   },
   venture: {
