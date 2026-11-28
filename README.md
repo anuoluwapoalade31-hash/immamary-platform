@@ -81,7 +81,7 @@ Until Supabase is configured, public forms display a setup message and do not cl
 ## Recent content updates
 
 - Added a Founders & Leadership page at `/leadership` featuring Emmanuel Idowu Alade's supplied professional biography, academic formation, ministry experience, family note and guiding conviction.
-- Added the supplied founders photograph at `public/images/founders-emmanuel-mary-alade.jpg`.
+- Added the supplied founders photograph at `public/founders-emmanuel-mary-alade.jpg`.
 - Updated the Venture arm display name to **IMMAMARY VENTURES**.
 - Added the official contact email: **Immamaryngo@gmail.com**.
 
